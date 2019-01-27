@@ -57,6 +57,11 @@ h1 {
   margin-bottom: -40px;
 }
 
+#name{
+  color: #ff4b4b;
+
+}
+
 h1:hover {
   transform: scale(1.04);
 }
@@ -95,8 +100,9 @@ a {
 
 .circle1 {
   position: absolute;
-  top: 500px;
-  right: -400px;
+  bottom:  -400px;
+  right: 25%;
+  left: ;
 }
 .circle2 {
   position: absolute;
